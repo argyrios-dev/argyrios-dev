@@ -1,4 +1,4 @@
-<div align="center">
+de visi<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,50:071F1B,100:00FF9C&text=ARGYRIOS-DEV&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Native%20macOS%20Software%20Engineer&descAlignY=60"/>
 
@@ -68,8 +68,10 @@ Everything should feel like it belongs to macOS.
 ### Designed to stay local.
 
 <br>
-
-<img src="https://shields.io">
+<img
+  src="https://komarev.com/ghpvc/?username=argyrios-dev&label=PROFILE%20VIEWS&style=flat&color=000000"
+  alt="Profile views"
+/>
 
 </div>
 
