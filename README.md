@@ -68,10 +68,8 @@ Everything should feel like it belongs to macOS.
 ### Designed to stay local.
 
 <br>
-<img
-  src="https://komarev.com/ghpvc/?username=argyrios-dev&label=PROFILE%20VIEWS&style=flat&color=000000"
-  alt="Profile views"
-/>
+
+<img src="https://komarev.com/ghpvc/?username=argyrios-dev&style=for-the-badge&color=22C55E">
 
 </div>
 
