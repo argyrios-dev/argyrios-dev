@@ -69,7 +69,7 @@ Everything should feel like it belongs to macOS.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=argyrios-dev&style=for-the-badge&color=22C55E">
+<img src="https://shields.io">
 
 </div>
 
