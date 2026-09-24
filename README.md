@@ -1,139 +1,41 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,50:071F1B,100:00FF9C&text=ARGYRIOS-DEV&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Windows%20%7C%20macOS%20%7C%20AI%20%7C%20Machine%20Learning&descAlignY=60"/>
+# Argyrios Gogonas Serrano
 
-# > whoami
+**Independent software developer · macOS apps · browser products · local-first systems**
 
-```console
-argyrios@system:~$ whoami
-
-Independent Software Developer
-
-Specialized in:
-• Windows & macOS software
-• AI & Machine Learning
-• Privacy-first tools
-• Native and local-first applications
-• Human-centered product design
-```
-
-<p>
-
-<a href="https://argyrios-dev.github.io">
-<img src="https://img.shields.io/badge/Portfolio-00FF9C?style=for-the-badge&logo=safari&logoColor=black">
-</a>
-
-<a href="https://github.com/argyrios-dev?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-111111?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<img src="https://img.shields.io/badge/macOS-Supported-black?style=for-the-badge&logo=apple">
-
-<img src="https://img.shields.io/badge/Windows-Supported-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-
-<img src="https://img.shields.io/badge/AI%20%26%20ML-Building-22C55E?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Open_Source-YES-22C55E?style=for-the-badge">
-
-</p>
+[Explore the interactive portfolio](https://argyrios-dev.github.io/) · [Selected work](#selected-work) · [Verified credential](#education) · [GitHub](https://github.com/argyrios-dev)
 
 </div>
 
----
+## Profile
 
-# ~/about
+I build practical software with careful attention to performance, privacy and interaction design. My work spans native macOS utilities, browser-based developer tools and data science projects. I enjoy taking an idea from a small technical problem to a usable product.
 
-I build **software and intelligent tools** focused on:
+The [portfolio website](https://argyrios-dev.github.io/) presents this work as an interactive résumé with a scroll-controlled 3D network.
 
-```text
-✓ Privacy
-✓ Performance
-✓ Simplicity
-✓ Local-first architecture
-✓ Clean user experience
-✓ Practical AI and Machine Learning
-```
+## Selected work
 
-My work is centered around creating tools that feel **fast, focused, and useful**.
+| Project | What I built | Stack |
+| --- | --- | --- |
+| [BridgeLock](https://github.com/argyrios-dev/BridgeLock) | Protect a selected macOS virtual desktop with a PIN; store the PIN in Keychain. | Swift, SwiftUI, AppKit |
+| [AirControll](https://github.com/argyrios-dev/AirControll) | Offline hand-gesture controls for macOS with camera frames processed in memory. | Swift, Vision, AVFoundation |
+| [R-Online](https://github.com/argyrios-dev/R-Online) | Browser-based R workspace with code execution, plots and local file handling. | R, webR, JavaScript |
+| [Toolynx](https://github.com/argyrios-dev/toolynx) | Installable toolbox with 32 developer utilities and no application backend. | JavaScript, PWA, Web Crypto |
+| [INTERVA](https://github.com/argyrios-dev/INTERVA) | Personal workspace that fits prioritized tasks into a chosen time interval. | JavaScript, HTML, CSS |
 
-I care about:
+## Skills
 
-- Native-quality experiences
-- Efficient local execution
-- Minimal overhead
-- Clear design
-- Software that solves real problems
+**Native development:** Swift, SwiftUI, AppKit, Apple Vision, AVFoundation<br>
+**Web development:** HTML, CSS, JavaScript, browser APIs, progressive web apps<br>
+**Data science:** R, Python, machine learning fundamentals<br>
+**Product principles:** local processing, accessible interfaces, clear documentation
 
----
+## Education
 
-# ~/focus
+**HarvardX / edX — Data Science: Building Machine Learning Models (PH125.8x)**<br>
+Verified course certificate issued August 28, 2026. [Verify the certificate on edX](https://courses.edx.org/certificates/12af242c911e41d8930627c551fc07af).
 
-### Platforms
+## Contact
 
-- **Windows**
-- **macOS**
-
-### Domains
-
-- **AI**
-- **Machine Learning**
-- **Developer Tools**
-- **Productivity Software**
-- **Privacy-first Applications**
-- **Local Software Systems**
-
-### Approach
-
-- No unnecessary complexity
-- No useless bloat
-- No telemetry-first mentality
-- Build for performance
-- Build for real users
-
----
-
-# ~/building
-
-I’m currently working on projects related to:
-
-```text
-• Machine Learning tooling
-• Local AI workflows
-• Cross-platform software
-• Resource-aware utilities
-• Native-feeling desktop applications
-```
-
----
-
-# ~/philosophy
-
-Good software should be:
-
-```text
-local
-fast
-clear
-lightweight
-intentional
-```
-
-If a tool can be simpler, faster, and more private, it should be.
-
----
-
-<div align="center">
-
-### Built for performance.
-
-### Designed to stay local.
-
-### Focused on software, AI, and machine learning.
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=argyrios-dev&style=for-the-badge&color=22C55E">
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:00FF9C,100:050816"/>
+[Portfolio](https://argyrios-dev.github.io/) · [All repositories](https://github.com/argyrios-dev?tab=repositories)
