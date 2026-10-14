@@ -132,7 +132,7 @@ If a tool can be simpler, faster, and more private, it should be.
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=argyrios-dev&style=for-the-badge&color=22C55E">
+![Profile views](https://komarev.com/ghpvc/?username=argyrios-dev&label=PROFILE+VIEWS&style=for-the-badge&color=22c55e)
 
 </div>
 
